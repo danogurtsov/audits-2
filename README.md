@@ -20,9 +20,13 @@ Reach out on [Telegram @pashovkrum](https://t.me/pashovkrum)
 ---
 
 ## 🏦 DeFi
-- [Arcadia - decentralized margin](team/pdf/Arcadia-security-review.pdf) <span style="background:#e8f5e9; color:#388e3c; padding:3px 8px; border-radius:5px;">DeFi</span>
-- [Fyde - yield management](team/pdf/Fyde-security-review-May.pdf) <span style="background:#e8f5e9; color:#388e3c; padding:3px 8px; border-radius:5px;">DeFi</span>
-- [Ion - lending](team/pdf/IonProtocol-security-review.pdf) <span style="background:#f3e5f5; color:#6a1b9a; padding:3px 8px; border-radius:5px;">Lending</span>
+- [Arcadia - decentralized margin](team/pdf/Arcadia-security-review.pdf) ![DeFi](https://img.shields.io/badge/type-DeFi-brightgreen?style=flat-square)
+- [Ethena - synthetic dollar](team/pdf/Ethena-security-review.pdf) ![Stablecoin](https://img.shields.io/badge/type-Stablecoin-blue?style=flat-square)
+- [Curio - crypto games](team/pdf/Curio-security-review.pdf) ![Game](https://img.shields.io/badge/type-Game-orange?style=flat-square)
+- [Reya Network - modular L2](team/pdf/ReyaNetwork-security-review-April.pdf) ![Layer 2](https://img.shields.io/badge/type-Layer%202-purple?style=flat-square)
+- [Clave - account abstraction wallet](team/pdf/Clave-security-review_2024-12-23.pdf) ![Wallet](https://img.shields.io/badge/type-Wallet-yellow?style=flat-square)
+- [Onchain Heroes - game](team/pdf/OnchainHeroes-security-review_2025-01-13.pdf) ![Game](https://img.shields.io/badge/type-Game-orange?style=flat-square)
+
 
 ## 🎮 Games
 - [Curio - crypto games](team/pdf/Curio-security-review.pdf) <span style="background:#fff3e0; color:#ef6c00; padding:3px 8px; border-radius:5px;">Game</span>
